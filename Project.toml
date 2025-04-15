@@ -1,0 +1,15 @@
+name = "LatexifyUtils"
+uuid = "3d833cee-0b61-4be4-94d3-6fb45493a89c"
+authors = ["Jonathan Miller <jonathan.miller@fieldofnodes.com>"]
+version = "0.1.0-dev"
+
+[compat]
+julia = "1.6"
+
+[deps]
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
